@@ -9,3 +9,5 @@ https://bitbucket.org/awetzel/gizmo_analysis/src/master/
 
 The ananke library can be found here:
 https://github.com/athob/py-ananke
+
+vera_rubin_anankethon is a simplified version of the code that is used as a sample case for the 2023 anankethon
